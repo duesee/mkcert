@@ -33,7 +33,11 @@ mkcert automatically creates and installs a local CA in the system root store, a
 > **Do not share the `rootCA-key.pem` file!** This file gives complete power to intercept secure requests from your machine.
 
 <details>
-<summary><b>macOS</b></summary>
+<summary>
+
+### macOS
+
+</summary>
 
 <details>
 <summary>Homebrew</summary>
@@ -63,7 +67,11 @@ sudo port install nss
 </details>
 
 <details>
-<summary><b>Linux</b></summary>
+<summary>
+
+### Linux
+
+</summary>
 
 <details>
 <summary>APT (Debian, Ubuntu, ...)</summary>
@@ -158,7 +166,11 @@ sudo cp mkcert-v*-linux-amd64 /usr/local/bin/mkcert
 </details>
 
 <details>
-<summary><b>Windows</b></summary>
+<summary>
+
+### Windows
+
+</summary>
 
 <details>
 <summary>Chocolatey</summary>
